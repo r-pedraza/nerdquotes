@@ -1,6 +1,11 @@
 # nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
+
+>Qué Skynet envíe Terminators de uno en uno en lugar de enviar un ejército me hace pensar que es un Sistema Operativo basado en Windows 8.
+
+*Frases Frikis*
+
 -------
 
 > La imaginación es más importante que el conocimiento. El conocimiento es limitado, mientras que la imaginación no.
